@@ -25,8 +25,8 @@ availability_zone_2    = "us-east-1b"
 publicly_accessible    = "false"
 
 # acm variables
-domain_name       = "gazypendragon1onlinenews.com"
-alternative_names = "*.gazypendragon1onlinenews.com"
+domain_name       = "ndefrutitus-sonsllc.com"
+alternative_names = "*.ndefrutitus-sonsllc.com"
 
 # route 53 variables
 record_name = "www"

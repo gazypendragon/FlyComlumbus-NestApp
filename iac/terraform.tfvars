@@ -1,7 +1,7 @@
 # environment variables
 region       = "us-east-1"
 project_name = "nestapp"
-environment  = "dev"
+environment  = "Prod"
 
 # vpc variables
 vpc_cidr                     = "10.0.0.0/16"
@@ -25,8 +25,8 @@ availability_zone_2    = "us-east-1b"
 publicly_accessible    = "false"
 
 # acm variables
-domain_name       = "ndefrusonsllc.com"
-alternative_names = "*.ndefrusonsllc.com"
+domain_name       = "gazypendragon1onlinenews.com"
+alternative_names = "*.gazypendragon1onlinenews.com"
 
 # route 53 variables
 record_name = "www"
